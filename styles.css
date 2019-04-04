@@ -1,0 +1,61 @@
+body{
+    background-image: url(recipebook.jpg); 
+    font-family:fantasy; 
+    font-size:; 
+    color:saddlebrown; 
+    margin-left:20%; 
+    margin-right % ; 
+    width: %; 
+    margin-top:; 
+    margin-bottom:-;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+    backface-visibility: visible
+}
+
+li {
+  float:none;
+}
+
+li a {
+  display: block;
+  color: sandybrown;
+  text-align:center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: salmon;
+}
+.active {
+  background-color: #4CAF50;
+}
+h1{
+ 
+   text-shadow: 2px 2px 5px red;
+   font-family: cursive; 
+   font-family: cursive; 
+    font-size: 50; 
+    border-color: aliceblue;
+    color:darkorange; 
+    text-align:justify; 
+}
+h2{
+    text-shadow: 2px 2px 5px yellow; 
+    font-family: fantasy; 
+    font-size: 35;
+    font color: #a3112a; 
+}
+a:link{ 
+    align-content:center; 
+    text-align: justify; 
+    font-family: inherit;  
+    font-size:23 ;
+     
+}
